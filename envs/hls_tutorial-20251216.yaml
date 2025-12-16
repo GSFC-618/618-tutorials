@@ -1,0 +1,4 @@
+name: myenv
+channels:
+  - conda-forge
+prefix: /home/jovyan/user_envs/myenv
